@@ -1,10 +1,7 @@
 package com.demo;
 
-import org.junit.Test;
-
-public class AppTest {
-    @Test
-    public void testApp() {
-        System.out.println("Test executed successfully");
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello CI/CD");
     }
 }
